@@ -1,7 +1,7 @@
 /* 
  * Filename: Checkout.java
  * Author: nanonite9
- * Date: November 27, 2017
+ * Date: November 27, 2017 
  * Description: This program maintains a list of SweetTreats's (originally Item) as it prints a receipt for the user.
  */
 
